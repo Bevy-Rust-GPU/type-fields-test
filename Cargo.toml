@@ -5,4 +5,3 @@ edition = "2021"
 
 [dependencies]
 type-fields = { git = "https://github.com/bevy-rust-gpu/type-fields" }
-type-fields-macros = { git = "https://github.com/bevy-rust-gpu/type-fields-macros" }
